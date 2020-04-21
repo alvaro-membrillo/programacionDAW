@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+	<libro isbn="1">
+		<titulo>100 años de Soledad</titulo>
+		<escritor>Gabriel García</escritor>
+		<precio>20</precio>
+	</libro>
+	<!--Ejemplo de comentario-->
+	<libro isbn="2">
+		<titulo>Luces de bohemia.</titulo>
+		<escritor>Ramón del Valle</escritor>
+		<precio>10</precio>
+	</libro>
+	<libro isbn="3">
+		<titulo>Crimen y castigo.</titulo>
+		<escritor>Fedor Dostoievski</escritor>
+		<precio>15</precio>
+	</libro>
+	<libro isbn="4">
+		<titulo>La casa de los espíritus</titulo>
+		<escritor>Isabel Allende</escritor>
+		<precio>9</precio>
+	</libro>
+	<libro isbn="5">
+		<titulo>La comedia humana</titulo>
+		<escritor>Honoré de Balzac</escritor>
+		<precio>17</precio>
+	</libro>
+</libros>

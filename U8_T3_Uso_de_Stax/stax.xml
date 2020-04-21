@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+	<idPersona dni="1">
+		<idPersona>1</idPersona>
+		<edadPersona>35</edadPersona>
+		<nombre>Miguel</nombre>
+		<pais>España</pais></idPersona>
+	<idPersona dni="2">
+		<idPersona>2</idPersona>
+		<edadPersona>15</edadPersona>
+		<nombre>Raquel</nombre>
+		<pais>Andorra</pais></idPersona>
+	<idPersona dni="3">
+		<idPersona>3</idPersona>
+		<edadPersona>10</edadPersona>
+		<nombre>Ramon</nombre>
+		<pais>Portugal</pais></idPersona>
+	<idPersona dni="4">
+		<idPersona>4</idPersona>
+		<edadPersona>50</edadPersona>
+		<nombre>Julia</nombre>
+		<pais>Venezuela</pais></idPersona>
+	<idPersona dni="5">
+		<idPersona>5</idPersona>
+		<edadPersona>68</edadPersona>
+		<nombre>Javier</nombre>
+		<pais>Argentina</pais></idPersona>
+	<idPersona dni="6">
+		<idPersona>6</idPersona>
+		<edadPersona>29</edadPersona>
+		<nombre>Gustavo</nombre>
+		<pais>Brasil</pais></idPersona>
+	<idPersona dni="7">
+		<idPersona>7</idPersona>
+		<edadPersona>24</edadPersona>
+		<nombre>Ana</nombre>
+		<pais>Italia</pais></idPersona>
+	<idPersona dni="8">
+		<idPersona>8</idPersona>
+		<edadPersona>32</edadPersona>
+		<nombre>Francisco</nombre>
+		<pais>Francia</pais></idPersona>
+	<idPersona dni="9">
+		<idPersona>9</idPersona>
+		<edadPersona>90</edadPersona>
+		<nombre>Blanca</nombre>
+		<pais>Irlanda</pais></idPersona>
+	<idPersona dni="10">
+		<idPersona>10</idPersona>
+		<edadPersona>80</edadPersona>
+		<nombre>Miguel</nombre>
+		<pais>España</pais></idPersona>
+</personas>
