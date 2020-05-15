@@ -1,0 +1,114 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "Casillas",
+      "equipo": "Real Madrid",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 15,
+      "nombre": "Ramos",
+      "equipo": "Real Madrid",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Pique",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Puyol",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 11,
+      "nombre": "Capdevila",
+      "equipo": "Villareal",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 14,
+      "nombre": "Xabi Alonso",
+      "equipo": "Real Madrid",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 16,
+      "nombre": "Busquets",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "Xavi Hernandez",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 18,
+      "nombre": "Pedrito",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Iniesta",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Villa",
+      "equipo": "FC Barcelona",
+      "estadisticas": {
+        "goles": 3,
+        "pases": 1,
+        "faltas": 5
+      }
+    }
+  ]
+}
