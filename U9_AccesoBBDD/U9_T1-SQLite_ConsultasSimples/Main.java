@@ -6,7 +6,7 @@ public class Main {
 
         try {
             //Primero creamos la conexion a la base de datos
-            connection = DriverManager.getConnection("jdbc:sqlite:metadata.db");
+            connection = DriverManager.getConnection("/home/alvaro/Documentos/sampledatabase.db");
             Statement statement = connection.createStatement();
             statement.setQueryTimeout(30); //Tiempo de respuesta de 30 segundos
 
